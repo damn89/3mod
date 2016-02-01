@@ -2,4 +2,5 @@
 Detta är vårt projektarbete för byggnader
 
 Collaborators:
+	Tina
   Rickard
