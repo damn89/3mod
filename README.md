@@ -1,2 +1,5 @@
 # 3mod
-Detta är vårt projektarbete för byggnader 
+Detta är vårt projektarbete för byggnader
+
+Collaborators:
+     NellySimon
