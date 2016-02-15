@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8"/>
+    <title>Akropolismuseet</title>
+</head>
+
+<body>
+  <h1>Akropolismuseet</h1>
+  <h2>1865</h2>
+
+  <p>
+  Det tidigare Akropolismuseet låg på Akropolis och rymde en stor del av de skulpturer som funnits på klippberget, bland annat sådana som dekorerat Parthenon. Det saknar dock de som förts utomlands, bland andra av Lord Elgin i början av 1800-talet (Elgin Marbles). Vaser och bronsföremål som upphittats vid utgrävningar på Akropolis finns på Atens nationalarkeologiska museum och inskriptioner på det Epigrafiska museet.
+
+  Museet ritades av Panages Kalkos och byggdes 1865-74 och byggdes ut under 1950-talet. Museet stängdes i juni 2007.
+  </p>
+
+  <figure>
+    <img src="../../img/gr_am_1865.jpg">
+  </figure>
+
+
+</body>
+
+</html>

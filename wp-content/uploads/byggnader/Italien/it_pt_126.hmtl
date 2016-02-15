@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8"/>
+    <title>Pantheon</title>
+</head>
+
+<body>
+  <h1>Pantheon</h1>
+  <h2>126 e.Kr</h2>
+
+  <p>
+    Pantheon (av grekiskans pan, 'allt', och theos, 'gud') är ett antikt tempel beläget vid Piazza della Rotonda i centrala Rom. Det var under antiken en helgedom åt alla gudar och i senare tid minnestempel över en nations stora män.
+  </p>
+
+  <figure>
+    <img src="../../img/it_pt_126.jpg">
+  </figure>
+
+
+</body>
+
+</html>
