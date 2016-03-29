@@ -6,7 +6,7 @@ var url = 'wp-content/uploads/byggnader';
 for (var j = 0; j < dirData.length; j++) {
 
 	var html = $('<li class="dropdown"/>');
-	html.append('<a href="'+ dirData[j].path +'">'+ dirData[j].filename +'</a>');
+	html.append('<a>' + dirData[j].filename + '</a>');
 	$('.navbar-nav').append(html); 
 
 	// Get Parent
@@ -18,11 +18,19 @@ for (var j = 0; j < dirData.length; j++) {
 
 		// Get Children
 		parent.children.forEach(function(children) {
-				console.log('Children: ', children.path);
-		});
+			console.log('Children: ', children.path);
 
-	}); html.append('<ul role="menu" class="dropdown-menu">'+ subMenu +'</ul>');
+		});
+	}); 
+	html.append('<ul role="menu" class="test dropdown-menu">'+ subMenu +'</ul>');
 }
+
+/*$('body').on('click', 'a', function(){
+	$('.post-inner-content').html('<iframe id="one"></iframe>');
+  var src = $(this).attr('data-href');
+  $('#one').attr('src', src);
+});
+*/
 
 }); })(jQuery);
 
