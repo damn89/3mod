@@ -1,6 +1,7 @@
 (function($){ $(function(){
 
-var url = 'wp-content/uploads/byggnader';
+// New URL path
+var url = window.location.protocol + "//" + 'localhost/github/3mod-jquery/wp-content/uploads/byggnader';
 
 // Get Grandparent
 for (var j = 0; j < dirData.length; j++) {
